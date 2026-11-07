@@ -1,4 +1,4 @@
-# Fechamento Inteligente Mega-Sena 17/34
+# Fechamento Inteligente Mega-Sena 17/34 - VERSÃO FINAL
 
 Ferramenta gratuita para gerar fechamento de Mega-Sena com 17 dezenas em 34 jogos.
 
@@ -9,28 +9,24 @@ Ferramenta gratuita para gerar fechamento de Mega-Sena com 17 dezenas em 34 jogo
 - Outras estratégias: Balanceada, Aleatória, Cobertura Máxima, Pares/Ímpares
 - Exportar em CSV, PNG e PDF
 - Estatísticas: soma, cobertura, frequência
-- Botão sutil "Pague um café" com LivePix: https://livepix.gg/andre9gb
+- Botão "Pague um café" - Card após os jogos + botão flutuante no canto inferior direito (mais alto na vertical) + rodapé
+- LivePix: https://livepix.gg/andre9gb
 
 ## Arquivos
-- index.html = a ferramenta inteira (é só esse arquivo!)
+- index.html = a ferramenta inteira
 - qr-livepix.png = QR Code do LivePix
 
-## Como publicar de graça (5 minutos)
+## Como atualizar no GitHub (já publicado)
+1. Vá no seu repositório no GitHub
+2. Clique em index.html > ícone de lápis (Edit) ou em "Add file > Upload files"
+3. Envie o novo index.html por cima do antigo
+4. Clique em Commit changes
+5. Aguarde 1-2 minutos e recarregue seu site - já estará atualizado!
 
-### Opção 1 - Só GitHub Pages (mais simples)
-1. Crie uma conta em github.com
-2. Crie um repositório novo chamado `fechamento-mega-sena` (público)
-3. Clique em "uploading an existing file" e envie `index.html` e `qr-livepix.png`
-4. Vá em Settings > Pages > Branch: main / root > Save
-5. Pronto! Seu link será: https://SEU-USUARIO.github.io/fechamento-mega-sena/
-
-### Opção 2 - GitHub + Vercel (link mais bonito)
-1. Faça o passo 1 e 2 acima
-2. Vá em vercel.com > New Project > Import do seu repositório
-3. Clique em Deploy
-4. Pronto! Link tipo: https://fechamento-mega-sena.vercel.app
-
-## Dica
-Depois de publicar, coloque o link no seu perfil do LivePix e na bio do Instagram para a galera usar.
+## Como publicar do zero
+1. Crie repositório público `fechamento-mega-sena`
+2. Envie index.html e qr-livepix.png
+3. Settings > Pages > Branch: main / (root) > Save
+4. Link: https://SEU-USUARIO.github.io/fechamento-mega-sena/
 
 Jogo responsável +18. Confira sempre o volante oficial.
